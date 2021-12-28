@@ -1,8 +1,10 @@
-### Hi there, I'm Ethan - aka iLluZionZz 👋 
+## Hi there, I'm Ethan - aka iLluZionZz 👋 
 
-## I am a novice self-taught Discord Bot Developer
+I used to be a novice Roblox developer and freelancing builder. I'm quite nonchalant when it comes to coding, especially when I spend most of my time playing games!
 
-- My primary focus is Lucario Bot, my passion project
+### I am a novice self-taught Discord Bot Developer
+
+- My primary focus is Lucario Bot, a small Discord bot & my passion project
 - I'm currently learning Djs, Nodejs & How to effectively use MongoDB
 
 ### Shameless self promotion:
