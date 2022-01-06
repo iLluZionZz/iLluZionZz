@@ -11,9 +11,9 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 
 [<img align="left" alt="iLluZionZz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="iLluZionZz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-- [Credit to codeSTACKr for the Github Biography!](https://youtu.be/ECuqb5Tv9qI)
-
 <br />
+<br />
+[Credit to codeSTACKr for the Github Biography!](https://youtu.be/ECuqb5Tv9qI)
 
 ### Languages and Tools:
 
