@@ -1,16 +1,17 @@
 ## Hi there, I'm Ethan - aka iLluZionZz 👋 
 
-I used to be a novice Roblox developer and freelancing builder. I'm quite nonchalant when it comes to coding, especially when I spend most of my time playing games!
+I used to be a novice Roblox developer and freelancing game builder, although I never coded in Lua or C, I've dived into the langauge of Javascript and just as I feel confident with my knowledge, I come across something I didn't know. Because I'm constantly learning, and its not quite my profession of choice, I'm quite nonchalant when it comes to coding, especially when I spend most of my time playing games instead!
 
 ### I am a novice self-taught Discord Bot Developer
 
-- My primary focus is Lucario Bot, a small Discord bot & my passion project
+- My primary focus is Lucario Bot, a "small" Discord Bot & my personal passion project over the course of the last 6 months!
 - I'm currently learning Djs, Nodejs & How to effectively use MongoDB
 
 ### Shameless self promotion:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="iLluZionZz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="iLluZionZz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- [Credit to codeSTACKr for the Github Biography!](https://youtu.be/ECuqb5Tv9qI)
 
 <br />
 
