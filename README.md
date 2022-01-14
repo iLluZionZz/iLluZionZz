@@ -7,13 +7,19 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 - My primary focus is Lucario Bot, a "small" Discord Bot & my personal passion project over the course of the last 6 months!
 - I'm currently learning Djs, Nodejs & How to effectively use MongoDB
 
+### My Passion Project
+[![Readme Card](https://github-readme-stats-jet-tau.vercel.app/api/pin/?username=iLluZionZz&theme=midnight-purple&layout=compact&repo=Lucario_Bot)
+](https://github.com/iLluZionZz/Lucario_Bot)
+
+
 ### Shameless self promotion:
 
-[<img align="left" alt="iLluZionZz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="iLluZionZz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
-<br />
-[Credit to codeSTACKr for the Github Biography!](https://youtu.be/ECuqb5Tv9qI)
+<a href="https://www.youtube.com/channel/UCgjeFArtdf-rxHlKJCNg-yw" rel="nofollow"><img src="https://img.shields.io/badge/Youtube-bf0d13?style=for-the-badge&logo=youtube&logoColor=white" style="max-width:100%;"></a></code>
+<a href="https://discord.gg/CFxfy6rv4P" rel="nofollow"><img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://steamcommunity.com/id/iLluZionZz/" rel="nofollow"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="max-width:100%;"></a></code>
+
+[Credit to codeSTACKr for the Github Biography](https://youtu.be/ECuqb5Tv9qI)
+[& credit to anuraghazra for the Github Stats!](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
@@ -25,7 +31,8 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 
 <br />
 <br />
-<img align="left" alt="iLluZionZz Github Stats" src="https://github-readme-stats-jet-tau.vercel.app/api?username=iLluZionZz&show_icons=true&theme=dark" />
+<img align="left" alt="iLluZionZz Github Stats" src="https://github-readme-stats-jet-tau.vercel.app/api?username=iLluZionZz&show_icons=true&theme=midnight-purple" />
+<img align="left" alt="iLluZionZz Github Stats" src ="https://github-readme-stats-jet-tau.vercel.app/api/top-langs/?username=iLluZionZz&theme=midnight-purple&layout=compact" />
 
 [twitter]: https://twitter.com/iLIuZionZz
 [youtube]: https://www.youtube.com/channel/UCgjeFArtdf-rxHlKJCNg-yw
