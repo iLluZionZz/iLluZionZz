@@ -25,6 +25,7 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 
 <br />
 <br />
+[![iLluZionZz's GitHub stats](https://github-readme-stats-jet-tau.vercel.app/api?username=iLluZionZz)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/iLIuZionZz
 [youtube]: https://www.youtube.com/channel/UCgjeFArtdf-rxHlKJCNg-yw
