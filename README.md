@@ -1,6 +1,6 @@
 ## Hi there, I'm Ethan - aka iLluZionZz 👋 
 
-I used to be a novice Roblox developer and freelancing game builder; although I never coded in Lua or C, I've dived into the langauge of Javascript and just as I feel confident with my knowledge, I come across something I didn't know. Because I'm constantly learning, and its not quite my profession of choice, I'm quite nonchalant when it comes to coding, especially when I spend most of my time playing games instead!
+I used to be a novice Roblox developer and freelancing game builder; although I never coded in Lua or C, I've dived into the langauge of Javascript; Just as I feel confident with my knowledge, I come across something I didn't know. Because I'm constantly learning, and its not quite my profession of choice, I'm quite nonchalant when it comes to coding, especially when I spend most of my time playing games instead!
 
 ### I am a novice self-taught Discord Bot Developer
 
