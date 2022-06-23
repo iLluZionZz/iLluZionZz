@@ -4,8 +4,10 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 
 ### I am a novice self-taught Discord Bot Developer
 
-- My primary focus is Lucario Bot, a "small" Discord Bot & my personal passion project over the course of the last 6 months!
+- My primary focus is Lucario Bot, a Discord Bot that has been my pride and joy for the last year!
 - I'm currently learning Djs, Nodejs & How to effectively use MongoDB
+- Experimenting with error handling to avoid fatal crashes in my applications
+- I am learning the Linux Debian system to host Node applications
 
 ### My Passion Project
 [![Readme Card](https://github-readme-stats-jet-tau.vercel.app/api/pin/?username=iLluZionZz&theme=midnight-purple&layout=compact&repo=Lucario_Bot)
