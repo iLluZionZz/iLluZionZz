@@ -10,11 +10,17 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 - I am learning the Linux Debian system to host Node applications
 
 ### My Passion Project
-[![Readme Card](https://github-readme-stats-jet-tau.vercel.app/api/pin/?username=iLluZionZz&theme=midnight-purple&layout=compact&repo=Lucario_Bot)
-](https://github.com/iLluZionZz/Lucario_Bot)
+[![Readme Card](https://github-readme-stats-jet-tau.vercel.app/api/pin/?username=iLluZionZz&theme=midnight-purple&layout=compact&repo=Lucario_Bot)](https://github.com/iLluZionZz/Lucario_Bot)
+<br />
+<img align="left" alt="iLluZionZz Github Stats" src="https://github-readme-stats-jet-tau.vercel.app/api?username=iLluZionZz&show_icons=true&theme=midnight-purple" />
+<img align="left" alt="iLluZionZz Github Stats" src ="https://github-readme-stats-jet-tau.vercel.app/api/top-langs/?username=iLluZionZz&theme=midnight-purple&layout=compact" />
 
+<br />
+<br />
+<br />
+<br />
 
-### Shameless self promotion:
+#### Shameless self promotion:
 
 <a href="https://www.youtube.com/channel/UCgjeFArtdf-rxHlKJCNg-yw" rel="nofollow"><img src="https://img.shields.io/badge/Youtube-bf0d13?style=for-the-badge&logo=youtube&logoColor=white" style="max-width:100%;"></a></code>
 <a href="https://discord.gg/CFxfy6rv4P" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -25,16 +31,34 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][placeholder]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][placeholder]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][placeholder]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][placeholder]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][placeholder]
+###
 
-<br />
-<br />
-<img align="left" alt="iLluZionZz Github Stats" src="https://github-readme-stats-jet-tau.vercel.app/api?username=iLluZionZz&show_icons=true&theme=midnight-purple" />
-<img align="left" alt="iLluZionZz Github Stats" src ="https://github-readme-stats-jet-tau.vercel.app/api/top-langs/?username=iLluZionZz&theme=midnight-purple&layout=compact" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iLluZionZz.iLluZionZz&left_text=Visitiors"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/iLluZionZz/iLluZionZz/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 
 [twitter]: https://twitter.com/iLIuZionZz
 [youtube]: https://www.youtube.com/channel/UCgjeFArtdf-rxHlKJCNg-yw
