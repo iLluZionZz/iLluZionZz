@@ -28,7 +28,6 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 <a href="https://steamcommunity.com/id/iLluZionZz/" rel="nofollow"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="max-width:100%;"></a></code>
 
 [Credit to codeSTACKr for the Github Biography](https://youtu.be/ECuqb5Tv9qI)
-<br />
 [& credit to anuraghazra for the Github Stats!](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
