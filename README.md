@@ -22,7 +22,7 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 
 [Credit to codeSTACKr for the Github Biography](https://youtu.be/ECuqb5Tv9qI)
 [& credit to anuraghazra for the Github Stats!](https://github.com/anuraghazra/github-readme-stats)
-
+<br />
 ### Languages and Tools:
 
 ###
