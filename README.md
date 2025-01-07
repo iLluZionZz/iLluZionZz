@@ -13,9 +13,9 @@ I used to be a novice Roblox developer and freelancing game builder; although I 
 [![Readme Card](https://github-readme-stats-jet-tau.vercel.app/api/pin/?username=iLluZionZz&theme=midnight-purple&layout=compact&repo=Lucario_Bot)](https://github.com/iLluZionZz/Lucario_Bot)
 <br />
 <img align="left" alt="iLluZionZz Github Stats" src="https://github-readme-stats-jet-tau.vercel.app/api?username=iLluZionZz&show_icons=true&theme=midnight-purple" />
+<br />
 <img align="left" alt="iLluZionZz Github Stats" src ="https://github-readme-stats-jet-tau.vercel.app/api/top-langs/?username=iLluZionZz&theme=midnight-purple&layout=compact" />
 
-<br />
 <br />
 <br />
 <br />
